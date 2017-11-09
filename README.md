@@ -8,8 +8,8 @@
 3. Feel free to add new .scss files, but remember to also add them to the style.scss index
 
 From your terminal (in the project directory), run:
-`gulp watch` to continually rebuild the CSS every time you save a .scss file...
-`gulp build` to build your CSS immediately.
+`npm run gulp` to continually rebuild the CSS every time you save a .scss file...
+
 
 On a Mac, ctrl + c will quit your gulp-watch process.
 
